@@ -1,2 +1,2 @@
 # side-scroller
-Created for AP Computer Science Principles
+Created for AP Computer Science Principles class
