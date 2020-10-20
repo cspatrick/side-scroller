@@ -179,4 +179,5 @@ local function jump()
 		notCrashing = true
 	end
 end
+--hi
 Runtime:addEventListener("tap", jump)
