@@ -174,7 +174,7 @@ local function jump()
 		sprite:setSequence( "jumping" )
 		notCrashing = true
 	else
-		sprite:applyLinearImpulse( 0, 100, sprite.x, sprite.y)
+		sprite:applyLinearImpulse( 0, 101, sprite.x, sprite.y)
 		sprite:setSequence( "jumping" )
 		notCrashing = true
 	end
